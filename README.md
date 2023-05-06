@@ -1,1 +1,1 @@
-https://yarshineku.github.io/goit-markup-hw-01/
+https://yarshineku.github.io/goit-markup-hw-02/
