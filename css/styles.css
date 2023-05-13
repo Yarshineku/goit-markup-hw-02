@@ -13,6 +13,8 @@ body {
 
 .first-text {
   color: #ffffff;
+  width: 696px;
+  height: 120px;
 }
 
 .link {
@@ -20,5 +22,11 @@ body {
   text-decoration: none;
 }
 .link:hover {
+  color: #2196f3;
+}
+.button {
+  color: #ffffff;
+}
+.button:hover {
   color: #2196f3;
 }
