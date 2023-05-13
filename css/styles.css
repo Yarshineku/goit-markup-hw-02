@@ -1,14 +1,27 @@
 body {
   font-family: Roboto, sans-serif;
   background: #e5e5e5;
+  position: relative;
+  width: 1600px;
+  height: 2349px;
 }
 .web {
   color: #2196f3;
   text-decoration: none;
+  position: absolute;
+  width: 145px;
+  height: 31px;
+  left: 215px;
+  top: 24px;
 }
 .studio {
   color: #000000;
   text-decoration: none;
+  position: absolute;
+  width: 145px;
+  height: 31px;
+  left: 215px;
+  top: 24px;
 }
 
 .first-text {
