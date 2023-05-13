@@ -5,13 +5,21 @@ body {
   width: 1600px;
   height: 2349px;
 }
-.web .studio {
+.webstudio {
   text-decoration: none;
   position: absolute;
   width: 145px;
   height: 31px;
   left: 215px;
   top: 24px;
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 31px;
+}
+.webstudio-2 {
+  text-decoration: none;
 }
 .web {
   color: #2196f3;
@@ -32,6 +40,20 @@ body {
   color: #212121;
   text-decoration: none;
 }
+.link-tel-1 {
+  color: #757575;
+  text-decoration: none;
+}
+.link-tel-1:hover {
+  color: #2196f3;
+}
+.link-tel-2 {
+  color: #757575;
+  text-decoration: none;
+}
+.link-tel-2:hover {
+  color: #2196f3;
+}
 .link:hover {
   color: #2196f3;
 }
@@ -40,4 +62,12 @@ body {
 }
 .button:hover {
   color: #2196f3;
+}
+.heading-h2-1 {
+  width: 352px;
+  height: 42px;
+}
+.heading-h2-2 {
+  width: 210px;
+  height: 42px;
 }
