@@ -1,7 +1,7 @@
 body {
   font-family: Roboto, sans-serif;
   background: #e5e5e5;
-  position: relative;
+
   width: 1600px;
   height: 2349px;
 }
@@ -11,7 +11,6 @@ body {
 
 .webstudio {
   text-decoration: none;
-  position: absolute;
   width: 145px;
   height: 31px;
   left: 215px;
@@ -35,7 +34,6 @@ body {
 
 .first-text {
   color: #ffffff;
-  position: absolute;
   width: 696px;
   height: 120px;
   left: 452px;
@@ -84,13 +82,11 @@ body {
   cursor: pointer;
 }
 .button-primary {
-  position: absolute;
   width: 200px;
   height: 50px;
   left: 700px;
   top: 430px;
   color: #ffffff;
-
   background: var(--brand-color, #2196f3);
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
   border-radius: 4px;
